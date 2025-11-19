@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: ringcero
 
 # import hextra as module
 module:
@@ -44,8 +44,8 @@ menu:
 
 params:
   navbar:
-    displayTitle: false
-    displayLogo: true
+    displayTitle: true
+    displayLogo: false
     logo:
       path: images/logo.png
       dark: images/logo.png
